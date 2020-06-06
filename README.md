@@ -5,6 +5,7 @@ A Nautilus extension to add "Open in VSCode" in menu.
 
 
 <img src="https://github.com/i-am-g2/Nautilus-VSCode/blob/master/Images/Ex1.png" width="40%">
+<hr>
 <img src="https://github.com/i-am-g2/Nautilus-VSCode/blob/master/Images/Ex2.png" width="50%">
 
 ### Installing
