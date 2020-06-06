@@ -1,6 +1,10 @@
 # OpenInVSCode
 A Nautilus extension to add "Open in VSCode" in menu. 
 
+### Usage Example
+![Example](https://github.com/i-am-g2/Nautilus-VSCode/Images/Ex1.png)
+![Example](https://github.com/i-am-g2/Nautilus-VSCode/Images/Ex2.png)
+
 ### Installing
 
 Run the install script.  
