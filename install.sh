@@ -7,3 +7,4 @@ sudo apt install python-nautilus
 
 sudo mkdir -p ~/.local/share/nautilus-python/extensions/
 sudo cp $DIR/open-vscode.py ~/.local/share/nautilus-python/extensions/open-vscode.py
+nautilus -q
