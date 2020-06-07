@@ -10,7 +10,8 @@ A Nautilus extension to add "Open in VSCode" in menu.
 
 ### Installing
 
-Run the install script.  
+Run the install script. 
+> $ chmod +x install.sh  
 > $ ./install.sh
 
 
