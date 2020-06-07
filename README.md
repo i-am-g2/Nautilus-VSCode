@@ -24,5 +24,6 @@ Run the install script.
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
-* Inspired from Martin Enlund's "Open in Terminal" script [here](https://gitlab.gnome.org/GNOME/nautilus-python/-/tree/master/examples)
+* Inspired from Martin Enlund's "Open in Terminal" script [here](https://gitlab.gnome.org/GNOME/nautilus-python/-/tree/master/examples)  
+[Shah Jainam](https://github.com/jainammm) Bug Fixes 
 
